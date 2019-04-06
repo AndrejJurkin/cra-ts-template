@@ -1,0 +1,1172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Row matches previous snapshots: base 1`] = `
+ShallowWrapper {
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <Row
+    classes={
+      StyleSheet {
+        "attached": false,
+        "classes": Object {
+          "root": "root-0-0-1",
+        },
+        "deployed": false,
+        "linked": false,
+        "options": Object {
+          "Renderer": [Function],
+          "classes": Object {
+            "root": "root-0-0-1",
+          },
+          "generateClassName": [Function],
+          "index": 0,
+          "insertionPoint": undefined,
+          "jss": Jss {
+            "generateClassName": [Function],
+            "id": 0,
+            "options": Object {
+              "Renderer": [Function],
+              "createGenerateClassName": [Function],
+              "plugins": Array [
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                  "onProcessRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                  "onProcessStyle": [Function],
+                  "onUpdate": [Function],
+                },
+              ],
+            },
+            "plugins": PluginsRegistry {
+              "hooks": Object {
+                "onChangeValue": Array [],
+                "onCreateRule": Array [
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                ],
+                "onProcessRule": Array [
+                  [Function],
+                ],
+                "onProcessSheet": Array [],
+                "onProcessStyle": Array [
+                  [Function],
+                ],
+                "onUpdate": Array [
+                  [Function],
+                ],
+              },
+            },
+            "version": "9.8.7",
+          },
+          "parent": [Circular],
+          "sheet": [Circular],
+        },
+        "renderer": DomRenderer {
+          "element": <style
+            data-jss=""
+          />,
+          "getKey": [Function],
+          "getPropertyValue": [Function],
+          "getUnescapedKeysMap": [Function],
+          "hasInsertedRules": false,
+          "removeProperty": [Function],
+          "setProperty": [Function],
+          "setSelector": [Function],
+          "sheet": [Circular],
+        },
+        "rules": RuleList {
+          "classes": Object {
+            "root": "root-0-0-1",
+          },
+          "index": Array [
+            Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+          ],
+          "map": Object {
+            ".root-0-0-1": Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+            "root": Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+          },
+          "options": Object {
+            "Renderer": [Function],
+            "classes": Object {
+              "root": "root-0-0-1",
+            },
+            "generateClassName": [Function],
+            "index": 0,
+            "insertionPoint": undefined,
+            "jss": Jss {
+              "generateClassName": [Function],
+              "id": 0,
+              "options": Object {
+                "Renderer": [Function],
+                "createGenerateClassName": [Function],
+                "plugins": Array [
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                    "onProcessRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                    "onProcessStyle": [Function],
+                    "onUpdate": [Function],
+                  },
+                ],
+              },
+              "plugins": PluginsRegistry {
+                "hooks": Object {
+                  "onChangeValue": Array [],
+                  "onCreateRule": Array [
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                  ],
+                  "onProcessRule": Array [
+                    [Function],
+                  ],
+                  "onProcessSheet": Array [],
+                  "onProcessStyle": Array [
+                    [Function],
+                  ],
+                  "onUpdate": Array [
+                    [Function],
+                  ],
+                },
+              },
+              "version": "9.8.7",
+            },
+            "parent": [Circular],
+            "sheet": [Circular],
+          },
+          "raw": Object {
+            "root": Object {
+              "& > *": Object {
+                "marginRight": [Function],
+              },
+              "alignItems": "center",
+              "display": "flex",
+            },
+          },
+          "update": [Function],
+        },
+        "update": [Function],
+      }
+    }
+  >
+    Test
+  </Row>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "checkPropTypes": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": "Test",
+      "className": "",
+    },
+    "ref": null,
+    "rendered": "Test",
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": "Test",
+        "className": "",
+      },
+      "ref": null,
+      "rendered": "Test",
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
+
+exports[`Row matches previous snapshots: with_spacing 1`] = `
+ReactWrapper {
+  Symbol(enzyme.__unrendered__): <Row
+    classes={
+      StyleSheet {
+        "attached": false,
+        "classes": Object {
+          "root": "root-0-0-1",
+        },
+        "deployed": false,
+        "linked": false,
+        "options": Object {
+          "Renderer": [Function],
+          "classes": Object {
+            "root": "root-0-0-1",
+          },
+          "generateClassName": [Function],
+          "index": 0,
+          "insertionPoint": undefined,
+          "jss": Jss {
+            "generateClassName": [Function],
+            "id": 0,
+            "options": Object {
+              "Renderer": [Function],
+              "createGenerateClassName": [Function],
+              "plugins": Array [
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                  "onProcessRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                  "onProcessStyle": [Function],
+                  "onUpdate": [Function],
+                },
+              ],
+            },
+            "plugins": PluginsRegistry {
+              "hooks": Object {
+                "onChangeValue": Array [],
+                "onCreateRule": Array [
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                ],
+                "onProcessRule": Array [
+                  [Function],
+                ],
+                "onProcessSheet": Array [],
+                "onProcessStyle": Array [
+                  [Function],
+                ],
+                "onUpdate": Array [
+                  [Function],
+                ],
+              },
+            },
+            "version": "9.8.7",
+          },
+          "parent": [Circular],
+          "sheet": [Circular],
+        },
+        "renderer": DomRenderer {
+          "element": <style
+            data-jss=""
+          />,
+          "getKey": [Function],
+          "getPropertyValue": [Function],
+          "getUnescapedKeysMap": [Function],
+          "hasInsertedRules": false,
+          "removeProperty": [Function],
+          "setProperty": [Function],
+          "setSelector": [Function],
+          "sheet": [Circular],
+        },
+        "rules": RuleList {
+          "classes": Object {
+            "root": "root-0-0-1",
+          },
+          "index": Array [
+            Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+          ],
+          "map": Object {
+            ".root-0-0-1": Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+            "root": Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+          },
+          "options": Object {
+            "Renderer": [Function],
+            "classes": Object {
+              "root": "root-0-0-1",
+            },
+            "generateClassName": [Function],
+            "index": 0,
+            "insertionPoint": undefined,
+            "jss": Jss {
+              "generateClassName": [Function],
+              "id": 0,
+              "options": Object {
+                "Renderer": [Function],
+                "createGenerateClassName": [Function],
+                "plugins": Array [
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                    "onProcessRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                    "onProcessStyle": [Function],
+                    "onUpdate": [Function],
+                  },
+                ],
+              },
+              "plugins": PluginsRegistry {
+                "hooks": Object {
+                  "onChangeValue": Array [],
+                  "onCreateRule": Array [
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                  ],
+                  "onProcessRule": Array [
+                    [Function],
+                  ],
+                  "onProcessSheet": Array [],
+                  "onProcessStyle": Array [
+                    [Function],
+                  ],
+                  "onUpdate": Array [
+                    [Function],
+                  ],
+                },
+              },
+              "version": "9.8.7",
+            },
+            "parent": [Circular],
+            "sheet": [Circular],
+          },
+          "raw": Object {
+            "root": Object {
+              "& > *": Object {
+                "marginRight": [Function],
+              },
+              "alignItems": "center",
+              "display": "flex",
+            },
+          },
+          "update": [Function],
+        },
+        "update": [Function],
+      }
+    }
+    spacing={24}
+  >
+    <p>
+      Item 1
+    </p>
+    <p>
+      Item 2
+    </p>
+  </Row>,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateError": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "function",
+    "props": Object {
+      "children": Array [
+        <p>
+          Item 1
+        </p>,
+        <p>
+          Item 2
+        </p>,
+      ],
+      "classes": StyleSheet {
+        "attached": false,
+        "classes": Object {
+          "root": "root-0-0-1",
+        },
+        "deployed": false,
+        "linked": false,
+        "options": Object {
+          "Renderer": [Function],
+          "classes": Object {
+            "root": "root-0-0-1",
+          },
+          "generateClassName": [Function],
+          "index": 0,
+          "insertionPoint": undefined,
+          "jss": Jss {
+            "generateClassName": [Function],
+            "id": 0,
+            "options": Object {
+              "Renderer": [Function],
+              "createGenerateClassName": [Function],
+              "plugins": Array [
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                  "onProcessRule": [Function],
+                },
+                Object {
+                  "onCreateRule": [Function],
+                  "onProcessStyle": [Function],
+                  "onUpdate": [Function],
+                },
+              ],
+            },
+            "plugins": PluginsRegistry {
+              "hooks": Object {
+                "onChangeValue": Array [],
+                "onCreateRule": Array [
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                  [Function],
+                ],
+                "onProcessRule": Array [
+                  [Function],
+                ],
+                "onProcessSheet": Array [],
+                "onProcessStyle": Array [
+                  [Function],
+                ],
+                "onUpdate": Array [
+                  [Function],
+                ],
+              },
+            },
+            "version": "9.8.7",
+          },
+          "parent": [Circular],
+          "sheet": [Circular],
+        },
+        "renderer": DomRenderer {
+          "element": <style
+            data-jss=""
+          />,
+          "getKey": [Function],
+          "getPropertyValue": [Function],
+          "getUnescapedKeysMap": [Function],
+          "hasInsertedRules": false,
+          "removeProperty": [Function],
+          "setProperty": [Function],
+          "setSelector": [Function],
+          "sheet": [Circular],
+        },
+        "rules": RuleList {
+          "classes": Object {
+            "root": "root-0-0-1",
+          },
+          "index": Array [
+            Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+          ],
+          "map": Object {
+            ".root-0-0-1": Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+            "root": Object {
+              "alignItems": "center",
+              "display": "flex",
+            },
+          },
+          "options": Object {
+            "Renderer": [Function],
+            "classes": Object {
+              "root": "root-0-0-1",
+            },
+            "generateClassName": [Function],
+            "index": 0,
+            "insertionPoint": undefined,
+            "jss": Jss {
+              "generateClassName": [Function],
+              "id": 0,
+              "options": Object {
+                "Renderer": [Function],
+                "createGenerateClassName": [Function],
+                "plugins": Array [
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                    "onProcessRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                    "onProcessStyle": [Function],
+                    "onUpdate": [Function],
+                  },
+                ],
+              },
+              "plugins": PluginsRegistry {
+                "hooks": Object {
+                  "onChangeValue": Array [],
+                  "onCreateRule": Array [
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                  ],
+                  "onProcessRule": Array [
+                    [Function],
+                  ],
+                  "onProcessSheet": Array [],
+                  "onProcessStyle": Array [
+                    [Function],
+                  ],
+                  "onUpdate": Array [
+                    [Function],
+                  ],
+                },
+              },
+              "version": "9.8.7",
+            },
+            "parent": [Circular],
+            "sheet": [Circular],
+          },
+          "raw": Object {
+            "root": Object {
+              "& > *": Object {
+                "marginRight": [Function],
+              },
+              "alignItems": "center",
+              "display": "flex",
+            },
+          },
+          "update": [Function],
+        },
+        "update": [Function],
+      },
+      "spacing": 24,
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": <div
+        class=""
+      >
+        <p>
+          Item 1
+        </p>
+        <p>
+          Item 2
+        </p>
+      </div>,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <p>
+            Item 1
+          </p>,
+          <p>
+            Item 2
+          </p>,
+        ],
+        "className": "",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": <p>
+            Item 1
+          </p>,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Item 1",
+          },
+          "ref": null,
+          "rendered": Array [
+            "Item 1",
+          ],
+          "type": "p",
+        },
+        Object {
+          "instance": <p>
+            Item 2
+          </p>,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Item 2",
+          },
+          "ref": null,
+          "rendered": Array [
+            "Item 2",
+          ],
+          "type": "p",
+        },
+      ],
+      "type": "div",
+    },
+    "type": [Function],
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "function",
+      "props": Object {
+        "children": Array [
+          <p>
+            Item 1
+          </p>,
+          <p>
+            Item 2
+          </p>,
+        ],
+        "classes": StyleSheet {
+          "attached": false,
+          "classes": Object {
+            "root": "root-0-0-1",
+          },
+          "deployed": false,
+          "linked": false,
+          "options": Object {
+            "Renderer": [Function],
+            "classes": Object {
+              "root": "root-0-0-1",
+            },
+            "generateClassName": [Function],
+            "index": 0,
+            "insertionPoint": undefined,
+            "jss": Jss {
+              "generateClassName": [Function],
+              "id": 0,
+              "options": Object {
+                "Renderer": [Function],
+                "createGenerateClassName": [Function],
+                "plugins": Array [
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                    "onProcessRule": [Function],
+                  },
+                  Object {
+                    "onCreateRule": [Function],
+                    "onProcessStyle": [Function],
+                    "onUpdate": [Function],
+                  },
+                ],
+              },
+              "plugins": PluginsRegistry {
+                "hooks": Object {
+                  "onChangeValue": Array [],
+                  "onCreateRule": Array [
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                    [Function],
+                  ],
+                  "onProcessRule": Array [
+                    [Function],
+                  ],
+                  "onProcessSheet": Array [],
+                  "onProcessStyle": Array [
+                    [Function],
+                  ],
+                  "onUpdate": Array [
+                    [Function],
+                  ],
+                },
+              },
+              "version": "9.8.7",
+            },
+            "parent": [Circular],
+            "sheet": [Circular],
+          },
+          "renderer": DomRenderer {
+            "element": <style
+              data-jss=""
+            />,
+            "getKey": [Function],
+            "getPropertyValue": [Function],
+            "getUnescapedKeysMap": [Function],
+            "hasInsertedRules": false,
+            "removeProperty": [Function],
+            "setProperty": [Function],
+            "setSelector": [Function],
+            "sheet": [Circular],
+          },
+          "rules": RuleList {
+            "classes": Object {
+              "root": "root-0-0-1",
+            },
+            "index": Array [
+              Object {
+                "alignItems": "center",
+                "display": "flex",
+              },
+            ],
+            "map": Object {
+              ".root-0-0-1": Object {
+                "alignItems": "center",
+                "display": "flex",
+              },
+              "root": Object {
+                "alignItems": "center",
+                "display": "flex",
+              },
+            },
+            "options": Object {
+              "Renderer": [Function],
+              "classes": Object {
+                "root": "root-0-0-1",
+              },
+              "generateClassName": [Function],
+              "index": 0,
+              "insertionPoint": undefined,
+              "jss": Jss {
+                "generateClassName": [Function],
+                "id": 0,
+                "options": Object {
+                  "Renderer": [Function],
+                  "createGenerateClassName": [Function],
+                  "plugins": Array [
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                      "onProcessRule": [Function],
+                    },
+                    Object {
+                      "onCreateRule": [Function],
+                      "onProcessStyle": [Function],
+                      "onUpdate": [Function],
+                    },
+                  ],
+                },
+                "plugins": PluginsRegistry {
+                  "hooks": Object {
+                    "onChangeValue": Array [],
+                    "onCreateRule": Array [
+                      [Function],
+                      [Function],
+                      [Function],
+                      [Function],
+                      [Function],
+                      [Function],
+                      [Function],
+                      [Function],
+                      [Function],
+                      [Function],
+                      [Function],
+                    ],
+                    "onProcessRule": Array [
+                      [Function],
+                    ],
+                    "onProcessSheet": Array [],
+                    "onProcessStyle": Array [
+                      [Function],
+                    ],
+                    "onUpdate": Array [
+                      [Function],
+                    ],
+                  },
+                },
+                "version": "9.8.7",
+              },
+              "parent": [Circular],
+              "sheet": [Circular],
+            },
+            "raw": Object {
+              "root": Object {
+                "& > *": Object {
+                  "marginRight": [Function],
+                },
+                "alignItems": "center",
+                "display": "flex",
+              },
+            },
+            "update": [Function],
+          },
+          "update": [Function],
+        },
+        "spacing": 24,
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": <div
+          class=""
+        >
+          <p>
+            Item 1
+          </p>
+          <p>
+            Item 2
+          </p>
+        </div>,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <p>
+              Item 1
+            </p>,
+            <p>
+              Item 2
+            </p>,
+          ],
+          "className": "",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": <p>
+              Item 1
+            </p>,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Item 1",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Item 1",
+            ],
+            "type": "p",
+          },
+          Object {
+            "instance": <p>
+              Item 2
+            </p>,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Item 2",
+            },
+            "ref": null,
+            "rendered": Array [
+              "Item 2",
+            ],
+            "type": "p",
+          },
+        ],
+        "type": "div",
+      },
+      "type": [Function],
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+        "legacyContextMode": "parent",
+        "lifecycles": Object {
+          "componentDidUpdate": Object {
+            "onSetState": true,
+          },
+          "getChildContext": Object {
+            "calledByRenderer": false,
+          },
+          "getDerivedStateFromProps": true,
+          "getSnapshotBeforeUpdate": true,
+          "setState": Object {
+            "skipsComponentDidUpdateOnNullish": true,
+          },
+        },
+      },
+    },
+  },
+}
+`;
